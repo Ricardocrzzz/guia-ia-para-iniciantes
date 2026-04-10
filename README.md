@@ -2,7 +2,7 @@
 
 Projeto de estudo ativo desenvolvido para o Desafio de Projeto da [DIO](https://dio.me).
 
-## 📝 Contexto e Objetivos
+## Contexto e Objetivos
 Este projeto explora o uso da Inteligência Artificial como ferramenta de aprendizagem ativa. O objetivo principal é consolidar conceitos fundamentais de IA para iniciantes, utilizando o **NotebookLM** para curadoria e síntese de conhecimentos.
 
 ### Objetivos de Estudo:
